@@ -69,12 +69,12 @@ Steps:
 
 2) Create a new enviroment using the following command:
 ```bash
-$ conda create -n timeseries_forecasting python=3.9
+$ conda create -n timeseries-forecasting python=3.9
 ```
 
 3) Activate the enviroment:
 ```bash
-$ conda activate mini-rag-app
+$ conda activate timeseries-forecasting
 ```
 
 4) Install dependencies:
